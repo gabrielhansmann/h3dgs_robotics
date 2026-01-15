@@ -1,0 +1,3 @@
+[submodule "hierarchical-3d-gaussians"]
+	path = hierarchical-3d-gaussians
+	url = git@github.com:gabrielhansmann/hierarchical-3d-gaussians.git
