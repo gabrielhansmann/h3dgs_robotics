@@ -11,7 +11,6 @@ RUN apt update && apt upgrade -y && apt install -y \
     python3-opencv \
     python3-yaml \
     python3-numpy \
-    python3-matplotlib \
     ros-humble-slam-toolbox \
     ros-humble-pointcloud-to-laserscan \
     ros-humble-rosbag2 \

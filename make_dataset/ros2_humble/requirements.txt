@@ -6,3 +6,4 @@ pyproj==3.7.1
 av==16.0.1
 matplotlib==3.10.8
 tqdm==4.67.1
+pymap3d

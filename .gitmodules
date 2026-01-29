@@ -1,3 +1,6 @@
 [submodule "hierarchical-3d-gaussians"]
 	path = hierarchical-3d-gaussians
 	url = git@github.com:gabrielhansmann/hierarchical-3d-gaussians.git
+[submodule "make_dataset/visualize_navsatfix"]
+	path = make_dataset/visualize_navsatfix
+	url = git@github.com:gabrielhansmann/visualize_navsatfix.git
