@@ -1,0 +1,45 @@
+cameras:
+  zed_multi_zed_front_left:
+    name: left
+    resolution:
+      width: 960
+      height: 540
+    focal_length:
+      fx: 364.9378662109375
+      fy: 364.9378662109375
+    optical_center:
+      cx: 491.930908203125
+      cy: 271.2388610839844
+  zed_multi_zed_right_left:
+    name: left
+    resolution:
+      width: 960
+      height: 540
+    focal_length:
+      fx: 363.970703125
+      fy: 363.970703125
+    optical_center:
+      cx: 492.321044921875
+      cy: 263.4081115722656
+  zed_multi_zed_rear_left:
+    name: left
+    resolution:
+      width: 960
+      height: 540
+    focal_length:
+      fx: 364.53662109375
+      fy: 364.53662109375
+    optical_center:
+      cx: 481.6271667480469
+      cy: 270.7853088378906
+  zed_multi_zed_left_left:
+    name: left
+    resolution:
+      width: 960
+      height: 540
+    focal_length:
+      fx: 369.3995056152344
+      fy: 369.3995056152344
+    optical_center:
+      cx: 488.0570068359375
+      cy: 275.6713562011719

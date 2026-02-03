@@ -1,0 +1,52 @@
+[
+    {
+        "cameras": [
+            {
+                "image_prefix": "zed_multi_zed_front_left",
+                "ref_sensor": true
+            },
+            {
+                "image_prefix": "zed_multi_zed_rear_left",
+                "cam_from_rig_rotation": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "cam_from_rig_translation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "image_prefix": "zed_multi_zed_right_left",
+                "cam_from_rig_rotation": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "cam_from_rig_translation": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "image_prefix": "zed_multi_zed_left_left",
+                "cam_from_rig_rotation": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "cam_from_rig_translation": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    }
+]
