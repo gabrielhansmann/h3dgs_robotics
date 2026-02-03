@@ -1,1 +1,4 @@
-rosbags/
+rosbags/*
+make_dataset/ros2_humble/backup/*
+make_dataset/ros2_humble/exported_data/*
+make_dataset/ros2_humble/rosbags/*
